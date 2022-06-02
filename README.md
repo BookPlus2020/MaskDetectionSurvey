@@ -9,10 +9,12 @@ Finally, we summarize the recent benchmarking results, give the discussions on t
 
 If you use related datasets or code, please cite this paper:
 
-@article{wang2021survey,
+@article{wang2022survey,
   title={A Survey on Masked Facial Detection Methods and Datasets for Fighting Against COVID-19},
   author={Wang, Bingshu and Zheng, Jiangbin and Chen, CL Philip},
   journal={IEEE Transactions on Artificial Intelligence},
-  year={2021},
+  vol={3},
+  page={323 - 343},
+  year={2022},
   publisher={IEEE}
 }
