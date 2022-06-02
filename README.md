@@ -7,7 +7,9 @@ In this paper, we primarily focus on the AI techniques of masked facial detectio
 
 Finally, we summarize the recent benchmarking results, give the discussions on the limitations of datasets and methods, and expand future research directions. To our knowledge, this is the first survey about masked facial detection methods and datasets. Hopefully our survey could provide some help to fight against epidemics.
 
-If you use related datasets or code, please cite this paper:
+
+
+If you use related datasets or code, please cite this paper: https://ieeexplore.ieee.org/abstract/document/9664332
 
 @article{wang2022survey,
   title={A Survey on Masked Facial Detection Methods and Datasets for Fighting Against COVID-19},
